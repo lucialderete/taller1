@@ -1,0 +1,15 @@
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\obj\Debug\net10.0\SisPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\obj\Debug\net10.0\SisPersonal.AssemblyInfoInputs.cache
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\obj\Debug\net10.0\SisPersonal.AssemblyInfo.cs
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\obj\Debug\net10.0\SisPersonal.csproj.CoreCompileInputs.cache
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\obj\Debug\net10.0\SisPersonal.sourcelink.json
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\bin\Debug\net10.0\SisPersonal.exe
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\bin\Debug\net10.0\SisPersonal.deps.json
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\bin\Debug\net10.0\SisPersonal.runtimeconfig.json
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\bin\Debug\net10.0\SisPersonal.dll
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\bin\Debug\net10.0\SisPersonal.pdb
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\obj\Debug\net10.0\SisPersonal.dll
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\obj\Debug\net10.0\refint\SisPersonal.dll
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\obj\Debug\net10.0\SisPersonal.pdb
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\obj\Debug\net10.0\SisPersonal.genruntimeconfig.cache
+C:\Users\Noxie\Taller1\taller1\tp7\SisPersonal\obj\Debug\net10.0\ref\SisPersonal.dll
